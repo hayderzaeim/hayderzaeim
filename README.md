@@ -12,7 +12,6 @@
  
   <a href="https://hayder-zaeem.web.app/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/89451982/193417592-b5c33e7d-3714-4567-9337-0e6b9f8dc5bf.png" alt="android" width="40" height="40"/> 
-   <h3>My Web</h3>
  </a> 
  
  <a href="https://t.me/hayderzaeem" target="_blank" rel="noreferrer"> 
