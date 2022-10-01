@@ -6,9 +6,21 @@
 <h3 align="center">Note: All projects will be published from 2016 to 2022
  </h3>
 
-![telegram](https://user-images.githubusercontent.com/89451982/193417437-c766c05f-f6f4-4242-9e84-550e5ad168b6.png)
 
-
+<h3 align="left">My Accounts:</h3>
+<p align="left"> 
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/89451982/193417437-c766c05f-f6f4-4242-9e84-550e5ad168b6.png" alt="android" width="40" height="40"/> 
+ </a> 
+ 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/89451982/193417437-c766c05f-f6f4-4242-9e84-550e5ad168b6.png" alt="android" width="40" height="40"/> 
+ </a> 
+ 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/89451982/193417437-c766c05f-f6f4-4242-9e84-550e5ad168b6.png" alt="android" width="40" height="40"/> 
+ </a> 
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
