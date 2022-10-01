@@ -3,7 +3,7 @@
 
 <h2 align="center">My old account has been deleted because of its violation, but all the projects in which I would be uploaded here </h2>
 
-<h3>Note: All projects will be published from 2016 to 2022
+<h3 align="center">Note: All projects will be published from 2016 to 2022
  </h3>
 
 <h3 align="left">Languages and Tools:</h3>
