@@ -1,0 +1,8 @@
+git clone https://github.com/hayderzaeim/gcc.git
+git clone https://github.com/hayderzaeim/roslyn.git
+git clone https://github.com/hayderzaeim/ruby.git
+git clone https://github.com/hayderzaeim/go.git
+::git clone https://github.com/hayderzaeim/v8.git
+::git clone https://github.com/hayderzaeim/TypeScript.git
+::git clone https://github.com/hayderzaeim/rust.git
+::git clone https://github.com/hayderzaeim/perl5.git
