@@ -23,6 +23,10 @@
   <a href="https://www.linkedin.com/in/hayder-zaeem-065370242/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/89451982/193417503-0439e00b-937a-43b5-8a47-ea5d91edbff5.png" alt="android" width="40" height="40"/> 
  </a> 
+
+  <a href="https://www.instagram.com/hayder_zaeem/" target="_blank" rel="noreferrer"> 
+  <img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="android" width="40" height="40"/> 
+ </a> 
  
   <a href="https://twitter.com/hayderzaeem" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/89451982/193417494-eb8d64c7-391c-463e-a1b1-b8d6fc44cc5e.png" alt="android" width="40" height="40"/> 
