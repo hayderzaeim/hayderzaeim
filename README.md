@@ -4,10 +4,7 @@
 <h2 align="center">Note: All projects will be published from 2016 to 2022
  </h2>
  
- <h3 align="center">
- <a align="center" href="https://github.com/hayderprofree" target="_blank" rel="noreferrer">  My Account GitHub 2 @hayderprofree  </a>
-
- </h3>
+ 
 
 <h3 >My Accounts:</h3>
 <p align="left"> 
